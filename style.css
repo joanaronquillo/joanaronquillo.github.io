@@ -725,18 +725,18 @@ img{
 }
 
 .team-img-1 { 
-	background-image: url(assets/images/team-member1.png);
+	background-image: url(assets/images/client1.jpg);
 }
 
 .team-img-2 { 
-	background-image: url(assets/images/team-member2.png);
+	background-image: url(assets/images/client2.jpg);
 }
 
 .team-img-3 { 
-	background-image: url(assets/images/team-member3.png);
+	background-image: url(assets/images/client3.jpg);
 }
 .team-img-4 { 
-	background-image: url(assets/images/team-member4.png);
+	background-image: url(assets/images/client4.jpg);
 }
 .team-info {
 	position: absolute;
